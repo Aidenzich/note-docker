@@ -1,4 +1,4 @@
-# Docker Note
+# Note of Docker 
 ## The Application of Docker
 - Automating the packaging and deployment of applications
 - Automated testing and continuous integration and deployment
