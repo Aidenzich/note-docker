@@ -74,5 +74,5 @@ docker save you-image-name > <your-file>.tar
 | delete all volumes | `docker volume prune` |
 | delete specific images | `docker rmi <your-image-id> <your-image-id> ...` |
 
-## Endpoint vs Command
+## Entrypoint vs Command
 - [Great Disscussion](https://stackoverflow.com/questions/21553353/what-is-the-difference-between-cmd-and-entrypoint-in-a-dockerfile)
